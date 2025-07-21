@@ -48,4 +48,4 @@ client.unfollower(user_id)
 
 
 
-data de criançã: 20/julho/2024
+data de crianção: 20/julho/2024
